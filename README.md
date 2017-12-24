@@ -20,7 +20,7 @@ Docker exécutant Nginx, PHP-FPM et MySQL.
 
     À ce stade, vous aurez tous les éléments du projet en place.
 
-5. [Utiliser les commandes Docker](#utiliser-commendes-docker)
+5. [Utiliser les commandes Docker](#utiliser-commandes-docker)
 
     Lors de l'éxecution, vous pouvez utiliser les commandes du docker pour effectuer des opérations récurrentes.
 
@@ -59,7 +59,7 @@ Ce projet utilise les ports suivants :
 | Server     | Port |
 |------------|------|
 | MySQL      | 8989 |
-| PHP-fpm    | 3306 |
+| PHP-fpm    | 9000 |
 | Nginx      | 8080 |
 
 ---
