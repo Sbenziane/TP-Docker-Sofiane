@@ -66,7 +66,7 @@ Ce projet utilise les ports suivants :
 
 ## Cloner le projet
 
-Pour installer [Git](https://git-scm.com/book/fr/v2/Démarrage-rapide-Installation-de-Git), téléchargez-le et installez-le en suivvant les instructions : 
+Pour installer [Git](https://git-scm.com/book/fr/v2/Démarrage-rapide-Installation-de-Git), téléchargez-le et installez-le en suivant les instructions : 
 
 ```sh
 git clone https://github.com/Sbenziane/TP-Docker-Sofiane.git
@@ -85,7 +85,7 @@ cd ./TP-Docker-Sofiane/
 ├── README.md
 ├── data
 │   └── db
-│		├── dumps
+│	├── dumps
 │       └── mysql
 ├── docker-compose.yml
 ├── logs
